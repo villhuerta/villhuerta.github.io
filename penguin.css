@@ -1,0 +1,11 @@
+h1,h2{text-align:center;}
+p{text-indent:}
+body { background-image: url("penguin2.jpg");
+}
+p{background-color:rgb(20,200,200);
+max-width:550px;}
+img { 
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+	}
